@@ -5,6 +5,13 @@ dialog {
     display: flex;
     border-radius: 15px;
     border-color: black ;
-    padding: 35px;
+    padding: 35px;   
 }
+button {
+    height: 25px;
+    border-radius: 50px;   
+    background-color: transparent;
+   
+}
+
   
