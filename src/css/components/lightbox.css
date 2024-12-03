@@ -1,3 +1,10 @@
 /**
 * Lightbox
 */
+dialog {
+    display: flex;
+    border-radius: 15px;
+    border-color: black ;
+    padding: 35px;
+}
+  
